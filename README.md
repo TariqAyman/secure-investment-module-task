@@ -49,6 +49,7 @@ This project "Task" simulates a real-world financial workflow emphasizing **secu
 - **Winston** (optional) for logging.  
 - **jsonwebtoken** (JWT) for secure token-based auth.  
 - **decimal.js** for precise numeric calculations.  
+- **Postman Collection** https://documenter.getpostman.com/view/2573933/2sAYkBth9B
 
 ---
 
